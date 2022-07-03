@@ -1,0 +1,2 @@
+# Operadora_de_Telefonia
+O referido programa, a partir do valor que uma operadora de telefonia cobra por uma quantidade determinada de minutos, informa o valor a ser pago pelo cliente, inclusive com a taxa por minutos excedentes aos contratados, caso hajam.  Em seu código, originalmente os valores do plano básico, minutos contratados pelo plano básico e taxa por minuto excedente, estão definidos como R$ 50,00, 100 e R$ 2,00 respectivamente, os quais podem ser alterados pelo usuário.
